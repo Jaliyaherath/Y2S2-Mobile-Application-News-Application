@@ -6,4 +6,4 @@ features that include.
 3. RecyclerView
 4. Room database
 
-# Create a A news app: users should be able to post and view news Using **Kotlin*
+# Create a A news app: users should be able to post and view news Using *Kotlin*
