@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Labtest3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btnhome">Home</string>
+    <string name="btnSettings">Settings</string>
+    <string name="btnViews">NewsFeed</string>
+    <string name="txtView">Select color</string>
+    <string name="spnsec">it1</string>
+    <string name="btnsave">Save</string>
+    <string name="txtv">News</string>
+    <string name="edtnews">Add your News here</string>
+    <string name="btnnesubmit">Submit</string>
+    <string name="txtnview">Show news Here</string>
+    <string name="txtentnews">Enter Here</string>
+    <string name="btnnsubmit">Add</string>
+    <string name="btnclicksubmit">Submit</string>
+    <string name="alert">Enter news</string>
+    <string name="Msg">Enter News Below</string>
+
+
+
+
+
+
+
+
+    <string-array name="colors">
+        <item>Blank</item>
+        <item>Background 1</item>
+        <item>Background 2</item>
+        <item>Background 3</item>
+        <item>Background 4</item>
+        <item>Background 5</item>
+
+    </string-array>
+</resources>
